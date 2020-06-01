@@ -1,0 +1,29 @@
+#menu{
+	background-color: #000000;
+}
+#menu ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	clip-path: none;
+}
+#menu ul li{
+	display: inline-block;
+}
+#menu ul li a{ 
+	color: #00FF93; 
+	display: block; 
+	padding: 10px 10px; 
+	text-decoration: none;
+	font-size: 30px;
+}
+#menu ul li a:hover{
+	background-color: #B8FF00; 
+}
+
+body{
+	background-image: url("img/fondo.jpg");
+	background-size: 100%;
+	padding: 5px;
+	font-family: "sans-serif";
+}
