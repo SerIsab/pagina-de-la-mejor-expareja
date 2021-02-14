@@ -1,2 +1,2 @@
-# pagina-de-la-mejor-pareja
-pagina de un noviazgo muy hermoso
+# pagina-de-la-mejor-expareja
+pagina de un exnoviazgo muy hermoso
